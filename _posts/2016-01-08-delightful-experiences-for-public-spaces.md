@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://gorbetdesign.com/about.html'
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: 'Our innovative experiential art and design transforms and invigorates environments. For restaurants and retail, in airports and museums, on hotels and hilltops,'
-datePublished: '2016-01-08T14:20:33.756Z'
-dateModified: '2016-01-08T14:19:59.334Z'
+datePublished: '2016-01-08T14:24:22.038Z'
+dateModified: '2016-01-08T14:24:18.662Z'
 author: []
 title: Delightful Experiences for Public Spaces
+sourcePath: _posts/2016-01-08-delightful-experiences-for-public-spaces.md
+published: true
 authors: []
 publisher:
   name: gorbetdesign.com
   domain: gorbetdesign.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-08-delightful-experiences-for-public-spaces.md
-published: true
+url: delightful-experiences-for-public-spaces/index.html
 _context: 'http://schema.org'
 _type: Article
 
