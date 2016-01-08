@@ -1,0 +1,28 @@
+name: 'Gorbet Design, Inc.'
+favicon: null
+layout_spectrum: 0.7379661649465561
+typography_spectrum: 0.8621100671589375
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4746087754610926
+  lightness: 0.4986660049762577
+  saturation: 0.0958387169521302
+  rhythmicContrast: 0.1528405488934368
+purpose: []
