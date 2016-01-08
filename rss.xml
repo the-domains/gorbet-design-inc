@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Gorbet Design, Inc.]]></title>
         <description><![CDATA[Gorbet Design, Inc.]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gorbet-design-inc/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 14:20:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 14:24:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gorbet-design-inc/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Delightful Experiences for Public Spaces]]></title>
             <description><![CDATA[<article><h1>Delightful Experiences for Public Spaces</h1><p>Our innovative experiential art and design transforms and invigorates environments. For restaurants and retail, in airports and museums, on hotels and hilltops, inventive forms of interactivity bring audiences surprise and delight.  From the intimate to the architectural, we create experiences that</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/856be6a7e516989a16628c2fe0577707a23abf5a.jpg"></article>]]></description>
-            <link>http://gorbetdesign.com/about.html</link>
+            <link>https://thegrid.ai/gorbet-design-inc/delightful-experiences-for-public-spaces/index.html</link>
             <guid isPermaLink="false">4e9fcd0e-8d93-4707-b1d6-63282ac63a77</guid>
-            <pubDate>Fri, 08 Jan 2016 14:20:33 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 14:24:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
